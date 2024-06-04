@@ -7,7 +7,6 @@ setup(
     install_requires=[
         'google-cloud-speech',
         'openai',
-        'languagetool-python',
         'google-cloud-language',
         'google-cloud-storage',
         'google-cloud-functions',
