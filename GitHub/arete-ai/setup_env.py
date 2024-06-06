@@ -11,7 +11,7 @@ def install_packages():
 def configure_google_cloud():
     print("Configurando o Google Cloud SDK...")
     # Defina o projeto do Google Cloud
-    project_id = "arete-ai"
+    project_id = "arete-ia"
     bucket_name = "arete-ai"
     subprocess.check_call(['gcloud', 'config', 'set', 'project', project_id])
     print(f"Projeto definido para {project_id}")
