@@ -1,0 +1,8 @@
+# requirements.txt
+# Dependências do projeto
+
+# Adicione as dependências aqui, por exemplo:
+# numpy
+# pandas
+# scikit-learn
+
